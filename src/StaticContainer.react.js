@@ -11,7 +11,7 @@
  * @flow
  */
 
-var React = require('React');
+var React = require('react-native');
 
 /**
  * Renders static content efficiently by allowing React to short-circuit the
